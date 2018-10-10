@@ -18,6 +18,10 @@
   }
 }
 
+.item-space {
+  padding-left: 10px;
+}
+
 .bg-black {
   color: #fff;
   background: #000;
